@@ -1,3 +1,7 @@
+## 4.2.0
+
+* Add support for methods introduced in `google_sign_in_platform_interface` 1.1.0.
+
 ## 4.1.4
 
 * Make the pedantic dev_dependency explicit.
